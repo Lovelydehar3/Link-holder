@@ -70,6 +70,7 @@ header {
       display: inline-block;
       box-shadow: 0 8px 20px rgba(41, 128, 185, 0.3);
       transition: all 0.3s ease;
+       width:16rem;
     }
 
     a:hover {
